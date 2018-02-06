@@ -1,2 +1,2 @@
 # ASD-DT
-Development for the Advanced Software Development coarse 
+Development for the Advanced Software Development course.
