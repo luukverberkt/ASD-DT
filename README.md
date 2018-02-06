@@ -17,4 +17,4 @@ In order to have constructive alignment, i.e.
 learning outcomes need to be defined. You will find the learning outcomes in the file [`learning-outcomes.md`][learning-outcomes]
 
 [adcd]: https://dl.acm.org/citation.cfm?id=2855353
-[learning-outcomes]: https://github.com/HANUniversityofappliedsciences/ASD-DT/blob/master/learning-outcomes.md
+[learning-outcomes]: learning-outcomes.md
