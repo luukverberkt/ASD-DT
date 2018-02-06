@@ -4,6 +4,7 @@
 ## Template
 We use the following template in defining our learning outcomes.
 
+|-------|---------------------------|
 | What? | Goals and outcome.        |
 | How?  | Method, tools, content    |
 | Why?  | The rational for the what |
