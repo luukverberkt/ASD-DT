@@ -10,11 +10,12 @@ This course is developed with the methodology
 ADCD can be seen as a form of backwards driven course development, first defining what to achieve, then how to assess those achievements and finally the methods for these assessments.
 
 ## Learning Outcomes
-In order to have constructive alignment, i.e. 
+ADCD uses learning outcomes to 
 
-> authentic assessment activities by defining your *learning outcomes* and then creating your assessment method in relation to them.
+> Set clear and measurable *goals* to help students organize their study and to ensure that you capture all of the elements that you need to teach and assess.
 
-learning outcomes need to be defined. You will find the learning outcomes in the file [`learning-outcomes.md`][learning-outcomes]
+You will find the learning outcomes for this course in
+[`learning-outcomes.md`][learning-outcomes]
 
 [adcd]: https://dl.acm.org/citation.cfm?id=2855353
 [learning-outcomes]: learning-outcomes.md
