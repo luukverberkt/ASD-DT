@@ -7,4 +7,14 @@ This course is developed with the methodology
 
 > constructive alignment, a learning outcome oriented course design, and a clearly stated and communicated list of assessment criteria.
 
-[adcd]: https://dl.acm.org/citation.cfm?id=2855353 
+ADCD can be seen as a form of backwards driven course development, first defining what to achieve, then how to assess those achievements and finally the methods for these assessments.
+
+## Learning Outcomes
+In order to have constructive alignment, i.e. 
+
+> authentic assessment activities by defining your *learning outcomes* and then creating your assessment method in relation to them.
+
+learning outcomes need to be defined. You will find the learning outcomes in the file [`learning-outcomes.md`][learning-outcomes]
+
+[adcd]: https://dl.acm.org/citation.cfm?id=2855353
+[learning-outcomes]: https://github.com/HANUniversityofappliedsciences/ASD-DT/blob/master/learning-outcomes.md
