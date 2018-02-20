@@ -13,6 +13,15 @@ We use the following template in defining our learning outcomes.
 ## Software Craftsmanship
 |       |                           |
 |-------|---------------------------|
-| What? | Students should be software craftsman and can apply practices of craftsmanship such as TDD, XP, clean code and ownership.      |
+| What? | Students are software craftsman and can apply practices of craftsmanship such as TDD, XP, clean code and ownership.      |
 | How?  | Performing katas, pair-programming and mob-programming. Tests, quizzes, exams and programming assignments.     |
 | Why?  | To become a responsible software professional.  |
+
+## Algorithms, Programming Languages & Paradigms
+|       |                           |
+|-------|---------------------------|
+| What? | Students are familiar with important algorithms and can reason about their complexity. |
+| How?  | Discuss, implement and analyze various algorithms, Tests and exams. |
+| Why?  | To make informed decisions when designing and developing software. |
+
+
