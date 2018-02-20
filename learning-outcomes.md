@@ -21,7 +21,13 @@ We use the following template in defining our learning outcomes.
 |       |                           |
 |-------|---------------------------|
 | What? | Students are familiar with important algorithms and can reason about their complexity. |
-| How?  | Discuss, implement and analyze various algorithms, Tests and exams. |
+| How?  | Discuss, implement and analyze various algorithms, Explore different problems and their algorithmic solutions. Tests and exams. |
+| Why?  | To make informed decisions when designing and developing software. |
+
+|       |                           |
+|-------|---------------------------|
+| What? | Students are familiar with important data structures and their characteristics. |
+| How?  | Discuss, implement and learn various data structures. Tests, quizzes exams and programming assignments. |
 | Why?  | To make informed decisions when designing and developing software. |
 
 
