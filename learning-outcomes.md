@@ -37,4 +37,11 @@ We use the following template in defining our learning outcomes.
 | How?  | Discuss, analyze and learn various architectures and their patterns.    |
 | Why?  | To be able to work with and on a software project of different architectures. |
 
+|       |                           |
+|-------|---------------------------|
+| What? | Students are familiar with how architecture is created.        |
+| How?  | Study course book.   |
+| Why?  | To know the context and forces that drive architecture. |
+
+
 
