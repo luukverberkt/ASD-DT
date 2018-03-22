@@ -30,4 +30,11 @@ We use the following template in defining our learning outcomes.
 | How?  | Discuss, implement and learn various data structures. Tests, quizzes exams and programming assignments. |
 | Why?  | To make informed decisions when designing and developing software. |
 
+## Software Architecture
+|       |                           |
+|-------|---------------------------|
+| What? | Students are familiar with different architecture styles, pattens and practices and knows how to apply them.       |
+| How?  | Discuss, analyze and learn various architectures and their patterns.    |
+| Why?  | To be able to work with and on a software project of different architectures. |
+
 
