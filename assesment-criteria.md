@@ -14,10 +14,15 @@
 ### Test Driven Development
  * The student can use test driven development to solve domain problems.
 
-## Algorithms, Programming languages & Paradigms
+## Algorithms, Programming Languages & Paradigms
 ### Algorithms
  * The student is familiar with various algorithms.
  * The student is able to analyze the complexity of algorithms.
- * The student is able to implement an algorithm.
+ * The student is able to implement an algorithm from it's desciptions.
+
+### Programming Languages
+* The student is able to program in a variety of programming languages.
+* The student knows a number of classifications for programming languages.
+
 
 ## Software Architecture
