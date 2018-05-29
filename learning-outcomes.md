@@ -10,10 +10,10 @@ We use the following template in defining our learning outcomes.
 | How?  | Method, tools, content    |
 | Why?  | The rational for the what |
 
-## Software Craftsmanship
+## Software Crafts
 |       |                           |
 |-------|---------------------------|
-| What? | Students are software craftsman and can apply practices of craftsmanship such as TDD, XP, clean code and ownership.      |
+| What? | Students are software craftspersons and can apply practices of their crafts such as TDD, XP, clean code and ownership.      |
 | How?  | Performing katas, pair-programming and mob-programming. Tests, quizzes, exams and programming assignments.     |
 | Why?  | To become a responsible software professional.  |
 
