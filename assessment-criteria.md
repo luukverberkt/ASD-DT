@@ -23,6 +23,9 @@
 ### Programming Languages
 * The student is able to program in a variety of programming languages.
 * The student knows a number of classifications for programming languages.
+* The student knows the rudiments of implementing a programming language.
 
 
 ## Software Architecture
+* The students can articulate the role of an architect and the role of architecture in the development process.
+* The student is able to analyze software architecture documents
