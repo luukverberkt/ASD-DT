@@ -18,7 +18,7 @@
 ### Algorithms
  * The student is familiar with various algorithms.
  * The student is able to analyze the complexity of algorithms.
- * The student is able to implement an algorithm from it's desciptions.
+ * The student is able to implement an algorithm from it's descriptions.
 
 ### Programming Languages
 * The student is able to program in a variety of programming languages.
